@@ -1,22 +1,26 @@
 # Telegram Group
 List of useful telegram group on Kalimantan Selatan related to programming 
 
-### Android Developer Kalimantan Selatan
+#### Android Developer Kalimantan Selatan
 Tempat sharing dan belajar bersama untuk pembuatan aplikasi android di Kalimantan Selatan
 * Link : https://t.me/banuaandroiddeveloper
 
-### Code Banua
+
+#### Code Banua
 Code Banua, komunitas untuk wadah sharing dan berbagi bubuhan banua dalam bidang IT terutama pemrogramman dan developing
 * Link : https://t.me/codebanua
 
-###  Borneo Koding
+
+####  Borneo Koding
 Komunitas Developer Kalimantan.
 * Link : https://t.me/borneokoding
 
-### Kalsel JS
+
+#### Kalsel JS
 JavaScript enthusiast from banua
 * Link : https://t.me/kalseljs
 
-### Startup Borneo 
+
+#### Startup Borneo 
 STARTUP BORNEO FOUNDATION Adalah sebuah wadah kolaborasi yang menaungi pelaku industri startup di Kalimantan, yang bertujuan untuk membangun generasi masadepan yang siap memasuki era digital
 * Link : https://t.me/startupborneo
