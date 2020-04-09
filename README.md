@@ -3,7 +3,7 @@ List of useful telegram group on Kalimantan Selatan related to programming
 
 #### Android Developer Kalimantan Selatan
 Tempat sharing dan belajar bersama untuk pembuatan aplikasi android di Kalimantan Selatan
-* Link : https://t.me/banuaandroiddeveloper
+* Link : https://t.me/androiddevkalsel
 
 
 #### Code Banua
